@@ -1,0 +1,11 @@
+.item-caption {
+    top: 50%;
+    right: 10%;
+    width: 80%;
+}
+
+.slider-section {
+    position: fixed;
+    background: rgba(0, 0, 0, 0.6);
+    inset: 0;
+}
